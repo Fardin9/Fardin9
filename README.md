@@ -1,7 +1,7 @@
 ### Hi there, I am Fardin Hoque 👋
 
 
-Here are some ideas to get you started:
+About myself:
 
 - 🔭 I’m currently working on Front End Web Development and Software Quality Assurance...
 - 🌱 I’m currently learning Different Testing Methods of Software testing...
